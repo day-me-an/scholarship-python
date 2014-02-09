@@ -9,4 +9,4 @@ Key features:
 * [Extract till you Drop](https://sites.google.com/site/unclebobconsultingllc/one-thing-extract-till-you-drop).
 * Simplified parallelisation via usage of `java.util.concurrent.*` (the .net equivelent didn't exist when the original was written).
 * Removal of micro-optimisations that made parts of the original unclear.
-* Code reduced by about 70%.
+* Original code reduced by about 70%.
