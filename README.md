@@ -1,7 +1,7 @@
 scholarship-python
 ==================
 
-A cleaner rewrite of the old C# scholarship program in Jython, which is a language I've gained exposure to since working with (vert.x)[http://vertx.io/].
+A cleaner rewrite of the [old C# scholarship program](https://github.com/day-me-an/scholarship-program) in Jython, which is a language I've gained exposure to since working with [vert.x](http://vertx.io/).
 
 This version focuses on:
 
