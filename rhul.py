@@ -40,11 +40,11 @@ class PositionGenerator:
 			pile_left -= 1
 			pile_right += 1
 
-	'''
-	Creates a new set of positions by combining each permutation 
-	of the left pile with the right pile.
-	'''
 	def merge_perms(self, left_perms, pile_right, positions):
+		'''
+		Creates a new set of positions by combining each permutation 
+		of the left pile with the right pile.
+		'''		
 		# repetively substitute the left pile for an alternative permutation 
 		for perm in left_perms:
 			is_desc_order = pile_right <= perm[-1]
